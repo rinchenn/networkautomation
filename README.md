@@ -1,2 +1,2 @@
-# networkautomation
+# Network Automation
 Network automation project
